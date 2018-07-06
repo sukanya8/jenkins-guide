@@ -5,7 +5,7 @@
   "author": "Your name",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sukanya8/jenkins-guide.git"
+    "url": "https://github.com/sukanya8/jenkins-guide.git"
   },
   "license": "ISC",
   "scripts": {
