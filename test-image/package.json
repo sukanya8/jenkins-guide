@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sukanya8/jenkins-guide.git"
+    "url": "https://github.com/sukanya8/jenkins-guide.git"
   },
-  "author": "Your name",
+  "author": "sukanya",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sukanya8/jenkins-guide/issues"
